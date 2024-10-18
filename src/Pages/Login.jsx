@@ -51,7 +51,7 @@ const GenerateID =(e)=>{
            className='btn text-light fs-5 col-11 p-3 mb-3' 
            onClick={Submitdata}>
             <b>Join</b></button>
-           <p className='text-center col-11'>Don't have RoomID ? &nbsp;<span onClick={GenerateID}>Genrrate Unique RoomID</span></p>
+           <p className='text-center col-11'>Don't have RoomID ? &nbsp;<span onClick={GenerateID}>Generate Unique RoomID</span></p>
         </div>
     </div>
     
